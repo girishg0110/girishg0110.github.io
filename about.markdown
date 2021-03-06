@@ -4,7 +4,7 @@ title: About Girish
 permalink: /about/
 ---
 
-![me](/assets/images/me.png)
+![me](/images/me.png)
 
 I'm a sophomore Honors College student at Rutgers University majoring in computer science and mathematics. My professional interests lie in software engineering, cloud computing, data science, and machine learning.
 
