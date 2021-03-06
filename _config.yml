@@ -21,10 +21,7 @@
 title: Girish Ganesan
 email: girishg0110@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey there! Here's where I post updates on my personal projects, write 
-  blog posts on topics that interest me, and do pretty much whatever comes to mind!
-  Feel free to reach out for more details + clarifications on any of my posts via my email, 
-  and check out my Github repos for more details.
+  My experiments in natural language processing, computational finance, and deep learning will be documented here. Enjoy the ride!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://girishg0110.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: girishg0110
