@@ -21,10 +21,12 @@
 title: Adventures in Blunderland
 email: girishg0110@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My experiments in natural language processing, computational finance, and deep learning will be documented here. Enjoy the ride!
+  My (mis)adventures in natural language processing, computational finance, and deep learning will be documented here. Enjoy the ride!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://girishg0110.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: girishg0110
+linkedin_username: girish-ganesan-9801
+youtube_username: "Girish's Youtube channel"
 
 # Build settings
 theme: minima
