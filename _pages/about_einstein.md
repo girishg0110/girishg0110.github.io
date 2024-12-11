@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I'm Girish, currently working as a data scientist at BNY Mellon. I build **retrieval-augmented generation apps for legal Q&A and information retrieval**. I earned a B.S. in Computer Science and Mathematics (double major) at Rutgers University, where I was active in AI and computational science research. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current interests are **graph machine learning and model interpretability**. On a personal note, I'm passionate about STEM education, having co-founded and supported tutoring programs and clubs throughout my school years. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my free time, you can find me [reading](https://www.goodreads.com/user/show/164072167-girish-ganesan), [cubing](), or creating [generative art](https://github.com/girishg0110/Video-Games-and-Art).
