@@ -1,9 +1,10 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NeurIPS":
+  url: https://neurips.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"NIU Press":
+  url: https://www.ni-u.edu/research-shorts/
 
-"Vision":
+"FAS":
   color: "#009f36"
+  url: https://fas.org/
