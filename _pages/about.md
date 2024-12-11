@@ -12,7 +12,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi 👋! I'm Girish, currently working as a data scientist at BNY Mellon. I build **retrieval-augmented generation apps for legal Q&A and information retrieval**. I earned a B.S. in Computer Science and Mathematics (double major) at Rutgers University, where I was active in AI and computational science research. 
