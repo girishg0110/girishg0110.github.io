@@ -1,3 +1,37 @@
+---
+layout: distill
+title: counting tanks
+description: probability distributions and military intelligence
+tags: random-walk stochastic-processes linear-algebra
+giscus_comments: false
+date: 2024-12-19
+featured: false
+mermaid:
+  enabled: true
+  zoomable: true
+code_diff: true
+map: true
+chart:
+  chartjs: true
+  echarts: true
+  vega_lite: true
+tikzjax: true
+typograms: true
+
+authors:
+  - name: Girish Ganesan
+    affiliations: 
+      name: Rutgers University
+
+bibliography: 2024-12-19-counting-tanks.bib
+
+# toc:
+#   - name: Problem Statement
+#   - name: Solution
+---
+
+In progress
+
 <!-- Tank problem - t_i...t_n
 - $P(N|t) = P(t|N)P(N)/P(t)$
 - $P(N|t) ~\alpha~ P(t|N)P(N)$

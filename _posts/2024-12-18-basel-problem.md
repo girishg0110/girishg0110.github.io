@@ -2,7 +2,7 @@
 layout: distill
 title: a basel problem redux
 description: approaches from analysis and geometry to summing squared reciprocals
-tags: math
+tags: infinite-series taylor-series
 giscus_comments: false
 date: 2024-12-18
 featured: false
@@ -28,9 +28,9 @@ bibliography: 2024-12-18-basel-problem.bib
 
 toc:
   - name: A Brief History
-  - name: Proof 1: Using the Taylor Series for arcsin(x)
-  - name: Proof 2: By Trigonometry and Euler's Formula
-  - name: Proof 3: By a Double Integral
+  - name: By the Taylor Series for arcsin(x)
+  - name: By Trigonometry and Euler's Formula
+  - name: By a Double Integral
   - name: An Application in Probability
   - name: Bibliography
 
@@ -52,7 +52,7 @@ While his methods are considered dubious by modern standards, his end result app
 
 Since then, mathematicians have both polished up Euler's own original proof and constructed ingenious solutions of their own to the same problem, drawing on disparate fields of study like analysis, geometry, and probability. I will show three such proofs in this paper, all leading to the same remarkable result.
 
-## Proof 1: Using the Taylor Series for arcsin(x)
+## By the Taylor Series for arcsin(x)
 In this section, we will solve exercises from section 8.3 of Abbott's Understanding Analysis following a proof by Boo Rim Choe refined by Peter Duren.
 
 ### Exercise 8.3.3
@@ -201,7 +201,7 @@ All our groundwork will now come to fruition. We note that since $\arcsin{x}$ is
     
     $\begin{align}A=\frac{1}{4}A + \frac{\pi}{8}\implies \boxed{ \sum_{n=1}^\infty \frac{1}{n^2}=\frac{\pi}{6} }\end{align}$
 
-## Proof 2: By Trigonometry and Euler's Formula
+## By Trigonometry and Euler's Formula
 This next proof is taken from Cambridge University's Sixth Term Examination Paper from 2018. Its structure goes as follows: (1) we establish the validity of a certain trigonometric identity, (2) we link this identity to a particular polynomial, and (3) we tie up all aspects to solve the Basel problem.
 
 ### Some Trigonometry
@@ -250,7 +250,7 @@ $\begin{align}\frac{n(2n-1)}{3} < \frac{(2n+1)^2}{\pi^2}\sum_{m=1}\frac{1}{m^2} 
 $\begin{align}\frac{n(2n-1)}{3(2n+1)^2}\pi^2 < \sum_{m=1}^n \frac{1}{m^2} < \pi^2\frac{2n(n+1)}{3(2n+1)^2}\end{align}$
 Now, we can take the limit of each of the bounding expressions. We find that $\lim_{n\to\infty} \frac{n(2n-1)}{3(2n+1)^2}\pi^2 = \frac{\pi^2}{2\cdot 3}=\pi^2/6$ and  $\lim_{n\to\infty} \pi^2\frac{2n(n+1)}{3(2n+1)^2} = \frac{\pi^2}{2\cdot 3}=\pi^2/6$. Then, by the Squeeze Theorem, $\begin{align}\lim_{n\to \infty}\sum_{m=1}^n \frac{1}{m^2} = \boxed { \sum_{m=1}^\infty \frac{1}{m^2} = \frac{\pi^2}{6} } \end{align}$
 
-## Proof 3: By a Double Integral
+## By a Double Integral
 This final approach is due to Tom Apostol; we will represent a double integral as a familiar infinite series, and then we will solve the double integral by making a clever substitution.
 
 ### Revealing the Hidden Series
