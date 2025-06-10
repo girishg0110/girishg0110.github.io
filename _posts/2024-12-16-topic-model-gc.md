@@ -27,7 +27,11 @@ bibliography: 2024-12-16-topic-model-gc.bib
 
 toc:
   - name: Introduction
-
+  - name: What do talk about?
+  - name: What's in the news?
+  - name: Who's active when?
+  - name: What's the mood?
+  - name: Who has the last word?
 ---
 
 ## Introduction
