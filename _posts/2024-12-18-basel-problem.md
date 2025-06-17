@@ -322,10 +322,10 @@ $\begin{align}\frac{1}{P'}=\sum_{n=1}^\infty \frac{1}{n^2} \implies \boxed{ P' =
 Then, there is about a 60.793\% chance that two randomly selected natural numbers are coprime.
 
 ## Bibliography
- - The Galileo Project. (1995).
+1. The Galileo Project. (1995).
     From http://galileo.rice.edu/Catalog/NewFiles/mengoli.html
- - Pietro Mengoli - Biography. (2004). From https://mathshistory.st-andrews.ac.uk/Biographies/Mengoli/
- - Abbott, S. (2016). Understanding analysis. New York: Springer.
- - Cambridge STEP Exam Repository. (2018). From https://www.admissionstesting.org/for-test-takers/step/preparing-for-step/
- - Apostol, T. M. (1983). A proof that euler missed: evaluating $\zeta(2)$ the easy way. The Mathematical Intelligencer, 5(3), 59–60.
- - Aaron D. Abrams & Matteo J. Paris (1992). The Probability That (a, b) = 1. The College Mathematics Journal, 23:1, 47.
+2. Pietro Mengoli - Biography. (2004). From https://mathshistory.st-andrews.ac.uk/Biographies/Mengoli/
+3. Abbott, S. (2016). Understanding analysis. New York: Springer.
+4. Cambridge STEP Exam Repository. (2018). From https://www.admissionstesting.org/for-test-takers/step/preparing-for-step/
+5. Apostol, T. M. (1983). A proof that euler missed: evaluating $\zeta(2)$ the easy way. The Mathematical Intelligencer, 5(3), 59–60.
+6. Aaron D. Abrams & Matteo J. Paris (1992). The Probability That (a, b) = 1. The College Mathematics Journal, 23:1, 47.
