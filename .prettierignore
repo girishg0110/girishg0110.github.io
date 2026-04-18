@@ -11,4 +11,7 @@ naturle/**
 _posts/2015-10-20-math.md
 _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
+
+_config.yml
+_pages/
 _posts/
