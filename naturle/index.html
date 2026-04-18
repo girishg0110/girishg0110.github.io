@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Naturle — National Park Guessing Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>NATURLE</h1>
+    <p class="subtitle">Guess today's US national park from its shape.</p>
+  </header>
+
+  <main>
+    <div id="shape-wrap"><div id="shape"></div></div>
+
+    <div id="input-row">
+      <div id="combobox">
+        <input
+          id="guess-input"
+          type="text"
+          placeholder="Type a national park..."
+          autocomplete="off"
+          spellcheck="false"
+          role="combobox"
+          aria-expanded="false"
+          aria-autocomplete="list"
+          aria-controls="suggestions"
+        />
+        <ul id="suggestions" role="listbox" hidden></ul>
+      </div>
+      <button id="guess-btn">Guess</button>
+    </div>
+
+    <div id="counter"></div>
+    <ul id="guesses"></ul>
+    <div id="status"></div>
+    <button id="give-up-btn" type="button">Give up</button>
+    <button id="replay-btn" type="button" hidden>Play again</button>
+    <section id="journey" hidden>
+      <h2>Your road trip to the answer</h2>
+      <div id="journey-loading" hidden>Plotting route…</div>
+      <ol id="journey-legs"></ol>
+      <div id="journey-total"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
